@@ -1,0 +1,11 @@
+header {
+  background-color: black;
+  color: yellow;
+  text-align: center;
+}
+main {
+  background-color: lightgrey;
+}
+body {
+  background-image: url("record.png");
+}
